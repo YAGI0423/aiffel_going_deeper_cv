@@ -3,16 +3,21 @@
 ***
 작성자: YAGI
 
-최종 수정일: 2022-07-06
-+ going deeper 02 ~ 10 등록
+최종 수정일: 2022-10-16
++ 2022-07-06: going deeper 02 ~ 10 등록
+
+
++ 2022-10-16: going deeper 02 등록
 ***
-+ 학습 기간: 2022-07-06 ~ 
+
+
++ 프로젝트 기간: 2022-07-06 ~ 
 
 <br>
 
-|순번|Folder Name|Title|제출일|비고|
+|순번|Folder Name|Title|등록일|비고|
 |:--------:|:--------:|:--------:|:--------:|:--------:|
-|1|[going deeper_02]()|2. 없다면 어떻게 될까? (ResNet Ablation Study)||-|
+|1|[going deeper_02]()|2. 없다면 어떻게 될까? (ResNet Ablation Study)|2022/10/16|-|
 |2|[going deeper_04]()|4. 이미지 어디까지 우려볼까?||-|
 |3|[going deeper_06]()|6. GO/STOP! - Object Detection 시스템 만들기||-|
 |4|[going deeper_08]()|8. 도로 영역을 찾자! - 세그멘테이션 모델 만들기||-|
