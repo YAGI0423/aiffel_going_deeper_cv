@@ -17,7 +17,7 @@
 
 |순번|Folder Name|Title|등록일|비고|
 |:--------:|:--------:|:--------:|:--------:|:--------:|
-|1|[going deeper_02]()|2. 없다면 어떻게 될까? (ResNet Ablation Study)|2022/10/16|-|
+|1|[going deeper_02](https://nbviewer.org/github/YAGI0423/aiffel_going_deeper_cv/blob/main/going_deeper_02/GD02_v1_2.ipynb)|2. 없다면 어떻게 될까? (ResNet Ablation Study)|2022/10/16|-|
 |2|[going deeper_04]()|4. 이미지 어디까지 우려볼까?||-|
 |3|[going deeper_06]()|6. GO/STOP! - Object Detection 시스템 만들기||-|
 |4|[going deeper_08]()|8. 도로 영역을 찾자! - 세그멘테이션 모델 만들기||-|
