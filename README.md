@@ -27,7 +27,7 @@
 |1|[going deeper_02](https://nbviewer.org/github/YAGI0423/aiffel_going_deeper_cv/blob/main/going_deeper_02/GD02_v1_2.ipynb)|2. 없다면 어떻게 될까? (ResNet Ablation Study)|2022/10/16|-|
 |2|[going deeper_04](https://nbviewer.org/github/YAGI0423/aiffel_going_deeper_cv/blob/main/going_deeper_04/GD04_v1_1.ipynb)|4. 이미지 어디까지 우려볼까?|2022/11/22|-|
 |3|[going deeper_06](https://nbviewer.org/github/YAGI0423/aiffel_going_deeper_cv/blob/main/going_deeper_06/GD06_v1_1.ipynb)|6. GO/STOP! - Object Detection 시스템 만들기|2023/02/05|-|
-|4|[going deeper_08]()|8. 도로 영역을 찾자! - 세그멘테이션 모델 만들기||-|
+|4|[going deeper_08](https://nbviewer.org/github/YAGI0423/aiffel_going_deeper_cv/blob/main/going_deeper_08/GD08_v1_1.ipynb)|8. 도로 영역을 찾자! - 세그멘테이션 모델 만들기|2023/08/03|-|
 |5|[going deeper_10]()|10. 나를 찾아줘 - Class Activation Map 만들기||-|
 |6|[going deeper_12]()|12. 직접 만들어보는 OCR||-|
 |7|[going deeper_14]()|14. 멀리 있는 사람도 스티커를 붙여주자||-|
